@@ -8,10 +8,10 @@
 - Se implementó una capa de seguridad utilizando tokens JWT para autenticar a los usuarios.
 
 ## Características principales 
-- **Crear un nuevo tópico*
-- **Mostrar todos los tópicos creados*
-- **Mostrar un tópico específico*
-- **Actualizar un tópico*
-- **Eliminar un tópico*
+- *Crear un nuevo tópico*
+- *Mostrar todos los tópicos creados*
+- *Mostrar un tópico específico*
+- *Actualizar un tópico*
+- *Eliminar un tópico*
 
-**Creado por Emiliano Sosa Castro, con ayuda de ChatGPT y viendo el codigo compartido por los compañer@s en Discord...*
+*Creado por Emiliano Sosa Castro, con ayuda de ChatGPT y viendo el codigo compartido por los compañer@s en Discord...*
