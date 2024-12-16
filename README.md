@@ -13,3 +13,5 @@
 - **Mostrar un tópico específico*
 - **Actualizar un tópico*
 - **Eliminar un tópico*
+
+**Creado por Emiliano Sosa Castro, con ayuda de ChatGPT y viendo el codigo compartido por los compañer@s en Discord...*
